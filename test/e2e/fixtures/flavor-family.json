@@ -17,6 +17,10 @@
       {
         "name": "high_clock_speed",
         "properties": []
+      },
+      {
+        "name": "gateway",
+        "properties": []
       }
     ]
   },
@@ -59,6 +63,10 @@
       },
       {
         "name": "high_clock_speed",
+        "properties": []
+      },
+      {
+        "name": "gateway",
         "properties": []
       }
     ]
